@@ -1,0 +1,1 @@
+This was the first TechSwitch Exercise pre-reading for the course.
